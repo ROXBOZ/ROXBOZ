@@ -5,7 +5,7 @@
 - 🌱 I’have been learning **Sanity** and want to dive into **React Native**.
 - 👩🏻‍💻 I’m looking to collaborate on **projects with a social, educational or cultural dimension**. **I am open for new gigs!**
 - 🌈 A better presentation of what I do can be found at **[roxanne-borloz.net](www.roxanne-borloz.net)**.
-- 👩🏻‍🍳 Ask me anything about **Web Accessibility** or **Sass**
+- 👩🏻‍🍳 Ask me anything about **Web Accessibility**
 - 📫 Reach me out at **hello@roxanne-borloz.net**.
 
 * * *
@@ -13,6 +13,7 @@
 - HTML5
 - CSS3
 - Sass
+- TailwindCSS
 - Javascript
 - Typescript
 - React
@@ -24,4 +25,5 @@
 - Express
 - Storybook
 - Sanity
+- Framer Motion
 
