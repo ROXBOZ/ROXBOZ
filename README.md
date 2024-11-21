@@ -20,7 +20,7 @@ With over 10 years of experience in web design and a background in graphic desig
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## Web Accessibility 🫚
-As of 2019, I specialize in Web Accessibility, ensuring that my code and design is accessible to most users. I am familiar with the WCAG 2.1 AA and AAA for code, design and content
+As of 2019, I specialize in Web Accessibility, ensuring that my code and design is accessible to most users. I am familiar with the WCAG 2.1 AA and AAA for code, design and content.
 
 ***
 I am not putting any important repository in _public_ since my projects are for clients (I’ll spare you my studies repos, I’m nice). Curious nevertheless, [reach out to me](mailto:hello@roxanne-borloz.net) and I’ll show you!
