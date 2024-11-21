@@ -15,7 +15,7 @@ A additional (and slightly excessive) list of the technologies I've learned and 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,git,github,postman,regex,graphql,wordpress)](https://skillicons.dev) 
 
 ## Web Design 🌶️
-With over 10 years of experience in web design and a background in graphic design, I’m skilled at creating responsive mockups using Figma’s component system. My design background also helps me develop components efficiently, integrating them smoothly into existing design systems and speeding up the process.
+With over 10 years of experience in web design and a background in graphic design, I’m skilled at creating responsive mockups using Figma’s component system. This background also helps me develop components kinda directly, bypassing the lengthy mockup process, integrating them smoothly into existing website design systems and speeding up the process.
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
