@@ -10,7 +10,7 @@ While I remain flexible to learn new technologies over time, I believe the best 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase,vscode,vercel)](https://skillicons.dev) ![Sanity.io](https://avatars.githubusercontent.com/u/17177659?s=50&v=4)
 
 
-A additional (and slightly excessive) list of the technologies I've learned and used in the past
+A additional (and slightly excessive) list of the technologies I've learned and used in the past.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,git,github,postman,regex,graphql,wordpress)](https://skillicons.dev) 
 
