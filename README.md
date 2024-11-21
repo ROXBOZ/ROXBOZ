@@ -19,4 +19,6 @@ As of 2019, I specialize in Web Accessibility, ensuring that my code and design 
 
 ***
 
-**I am open to new gigs! [Don’t hesitate to reach out to me](mailto:hello@roxanne-borloz.net)**
+I keep my repositories private because most of my projects are for real clients (and some things are better left to the imagination). Want to see my code? [Reach out to me](mailto:hello@roxanne-borloz.net). 
+
+**I am open to new gigs!** [Don’t hesitate to reach out to me](mailto:hello@roxanne-borloz.net).
