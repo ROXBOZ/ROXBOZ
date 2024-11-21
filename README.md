@@ -6,9 +6,13 @@
 ## Web Development 🍲
 While I remain flexible to learn new technologies over time, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase)](https://skillicons.dev) – [![My Skills](https://skillicons.dev/icons?i=vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase,vscode,vercel)](https://skillicons.dev) ![Sanity.io](https://avatars.githubusercontent.com/u/17177659?s=50&v=4)
 
-  
+
+A additional (and slightly excessive) list of icons for the technologies I've learned and used in the past
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,jest,git,github,postman,regex,graphql,vite,npm,wordpress)](https://skillicons.dev) 
+
 ## Web Design 🌶️
 With over 10 years of experience in web design and a background in graphic design, I’m skilled at creating responsive mockups using Figma’s component system. My design background also helps me develop components efficiently, integrating them smoothly into existing design systems and speeding up the process.
 
@@ -19,6 +23,4 @@ As of 2019, I specialize in Web Accessibility, ensuring that my code and design 
 
 ***
 
-I keep my repositories private because most of my projects are for real clients (and some things are better left to the imagination). Want to see my code? [Reach out to me](mailto:hello@roxanne-borloz.net). 
-
-**I am open to new gigs!** [Don’t hesitate to reach out to me](mailto:hello@roxanne-borloz.net).
+**I am open to new gigs! [Don’t hesitate to reach out to me](mailto:hello@roxanne-borloz.net)**
