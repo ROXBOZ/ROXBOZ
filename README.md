@@ -11,7 +11,7 @@ While I remain flexible to learn new technologies over time, I believe the best 
 
 A additional (and slightly excessive) list of icons for the technologies I've learned and used in the past
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,jest,git,github,postman,regex,graphql,vite,npm,wordpress)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,git,github,postman,regex,graphql,wordpress)](https://skillicons.dev) 
 
 ## Web Design 🌶️
 With over 10 years of experience in web design and a background in graphic design, I’m skilled at creating responsive mockups using Figma’s component system. My design background also helps me develop components efficiently, integrating them smoothly into existing design systems and speeding up the process.
