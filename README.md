@@ -1,5 +1,6 @@
 # Hi, I'm Roxanne, a Berlin-based full-stack web developer and designer with a focus on web accessibility
 - An overview of my recent work can be seen on [velma.studio](https://www.velma.studio), a freelancer collective I co-created early 2024.
+- Our most important recent project is [pvssy talk.org](https://www.pvssy-talk.org).
 - Since July 2023, I am certified as a full-stack web developer by Code Academy Berlin.
 - Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design, UI/UX, and CSS integration.
 
@@ -22,5 +23,6 @@ With over 10 years of experience in web design and a background in graphic desig
 As of 2019, I specialize in Web Accessibility, ensuring that my code and design is accessible to most users. I am familiar with the WCAG 2.1 AA and AAA for code, design and content
 
 ***
+I am not putting any important repository in _public_ since my projects are for clients (I’ll spare you my studies repos, I’m nice). Curious nevertheless, [reach out to me](mailto:hello@roxanne-borloz.net) and I’ll show you!
 
-**I am open to new gigs! [Don’t hesitate to reach out to me](mailto:hello@roxanne-borloz.net)**
+I am open to new gigs! Don’t hesitate to [reach out to me](mailto:hello@roxanne-borloz.net)!
