@@ -2,7 +2,7 @@
 - An overview of my recent work can be seen on [velma.studio](https://www.velma.studio), a freelancer collective I co-created early 2024.
 - Our most important recent project is [pvssy talk.org](https://www.pvssy-talk.org).
 - Since July 2023, I am certified as a full-stack web developer by Code Academy Berlin.
-- Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design, UI/UX, and CSS integration.
+- Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design, UI/UX over time.
 
 ## Web Development 🍲
 While I remain flexible to learn new technologies over time, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
