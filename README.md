@@ -1,6 +1,5 @@
-<h1 >Hi, I'm Roxanne, Berlin based Full Stack Web Developer and designer with a focus on Accessibility</h1>
+<h1 >Hi, I'm Roxanne, a Berlin-based full-stack web developer and designer with a focus on web accessibility</h1>
 
-- 🔭 I recently launched **[Velma Studio](https://www.velma.studio/)** with my partner in crime Anne-Soorya Takoordyal. Come over and say hi!!
-- 👩🏻‍💻 Looking to collaborate on **projects with a social, educational or cultural dimension**.
-- 🦹‍♀️ Ask me anything about **Web Accessibility**
-- 📫 Reach me out at **hello@roxanne-borloz.net**.
+✨ An overview of my recent work can be seen on velma.studi(https://www.velma.studio), a freelancer collective I co-created early 2024.
+✨ Since 2023, I am certified as a full-stack web developer by Code Academy Berlin. 
+✨ Since graduating as a graphic designer in 2012, I have expanded into web design, UI/UX, and CSS integration.
