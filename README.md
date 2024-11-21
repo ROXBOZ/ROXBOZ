@@ -1,7 +1,7 @@
 # Hi, I'm Roxanne, a Berlin-based full-stack web developer and designer with a focus on web accessibility
 - An overview of my recent work can be seen on [velma.studio](https://www.velma.studio), a freelancer collective I co-created early 2024.
 - Since July 2023, I am certified as a full-stack web developer by Code Academy Berlin.
-- Since graduating as a graphic designer in 2012 (ERACOM, Lausanne, CH), I have expanded into web design, UI/UX, and CSS integration.
+- Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design, UI/UX, and CSS integration.
 
 ## Web Development 🍲
 While I remain flexible to learn new technologies over time, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
