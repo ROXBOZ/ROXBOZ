@@ -1,6 +1,6 @@
 # Hi, I'm Roxanne, a Berlin-based full-stack web developer and designer with a focus on web accessibility
 - An overview of my recent work can be seen on [velma.studio](https://www.velma.studio), a freelancer collective I co-created early 2024.
-- Our most important recent project is [pvssy talk.org](https://www.pvssy-talk.org).
+- My most important recent project is [pvssy talk.org](https://www.pvssy-talk.org).
 - Since July 2023, I am certified as a full-stack web developer by Code Academy Berlin.
 - Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design, UI/UX over time.
 
