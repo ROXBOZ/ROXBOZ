@@ -7,12 +7,13 @@
 ## Web Development 🍲
 While I remain flexible to learn new technologies, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase,vscode,vercel)](https://skillicons.dev) ![Sanity.io](https://avatars.githubusercontent.com/u/17177659?s=50&v=4)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase)](https://skillicons.dev) ![Sanity.io](https://avatars.githubusercontent.com/u/17177659?s=50&v=4) ... [![My Skills](https://skillicons.dev/icons?i=vercel,vscode,github)](https://skillicons.dev)
+
 
 
 A additional (and slightly excessive) list of the technologies I've learned and used in the past.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,git,github,postman,regex,graphql,wordpress)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mongodb,git,postman,regex,graphql,wordpress)](https://skillicons.dev) 
 
 ## Web Design 🌶️
 With over 10 years of experience in web design and a background in graphic design, I’m skilled at creating responsive mockups using Figma’s component system. This background also helps me develop components kinda directly, bypassing the lengthy mockup process, integrating them smoothly into existing website design systems and speeding up the process.
