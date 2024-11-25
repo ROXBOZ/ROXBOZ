@@ -5,7 +5,7 @@
 - Since graduating as a graphic designer in 2012 (ERACOM, Lausanne), I have expanded into web design and UI/UX over time.
 
 ## Web Development 🍲
-While I remain flexible to learn new technologies over time, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
+While I remain flexible to learn new technologies, I believe the best soups are made with Next.js + Typescript, TailwindCSS, [Sanity.io](https://www.sanity.io). Agremented with Firebase/Firestore, Stripe, Shopify, GSAP, depending on the project needs.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase,vscode,vercel)](https://skillicons.dev) ![Sanity.io](https://avatars.githubusercontent.com/u/17177659?s=50&v=4)
 
