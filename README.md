@@ -5,8 +5,6 @@
 - Fully certified in Web Accessibility since 2021, ensuring accessible code, design, and content.
 
 ![Codewars Badge](https://www.codewars.com/users/roxboz/badges/large)
-
-
  
 ## Tech Stack 🍜
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,nextjs,ts,tailwind,sass)](https://skillicons.dev)  
@@ -17,6 +15,5 @@
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
 
 
-## Web Accessibility 🫚
-As of 2021, I specialize in Web Accessibility, ensuring that my code and design is accessible to most users. I am familiar with the WCAG 2.1 AA and AAA for code, design and content.
-
+## Web Accessibility and Inclusion 🫚
+Since 2021, I have specialized in Web Accessibility, ensuring that my code, design, and content meet the highest standards of inclusive design. I am well-versed in WCAG 2.1 AA and AAA, committed on creating accessible internationalization and to creating digital experiences that are accessible and empowering for all users.
