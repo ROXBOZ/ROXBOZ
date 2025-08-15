@@ -20,7 +20,3 @@
 ## Web Accessibility 🫚
 As of 2021, I specialize in Web Accessibility, ensuring that my code and design is accessible to most users. I am familiar with the WCAG 2.1 AA and AAA for code, design and content.
 
-***
-I am not putting any important repository in _public_ since my projects are for clients (I’ll spare you my studies repos, I’m nice). Curious nevertheless, [reach out to me](mailto:hello@roxanne-borloz.net) and I’ll show you!
-
-I am actively looking to join a team in a company where I could contribute and grow technically. [reach out to me](mailto:hello@roxanne-borloz.net)!
