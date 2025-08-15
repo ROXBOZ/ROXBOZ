@@ -9,7 +9,7 @@
 
  
 ## Tech Stack 🍜
-[![My Skills](https://skillicons.dev/icons?i=html,react,js,nextjs,ts,tailwind,sass)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,nextjs,ts,tailwind,sass)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=graphql,firebase,mongodb,express,nodejs)](https://skillicons.dev)  
 <img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50" />
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
