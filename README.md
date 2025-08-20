@@ -4,6 +4,8 @@
 - Certified Full-Stack Web Developer (Code Academy Berlin, July 2023).
 - Graduated in Graphic Design (ERACOM, Lausanne, 2012), with a shift to Web Design and UI/UX.
 - Fully certified in Web Accessibility since 2021, ensuring accessible code, design, and content.
+
+- Check my **DEMO Project** [pvssy-talk-app-router](https://github.com/ROXBOZ/pvssy-talk-app-router)
  
 ## Tech Stack 🍜
 ### Frontend
