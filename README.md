@@ -15,7 +15,7 @@
  
 ## Tech Stack 🍜
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,regex)](https://skillicons.dev)  
 ### CMS & Backend
 <img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)](https://skillicons.dev)  
 
@@ -25,8 +25,8 @@
 <img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
 
 
-### Performances, Testing, CI/CD
-[![My Skills](https://skillicons.dev/icons?i=jest,git,github,jenkins)](https://skillicons.dev) 
+### Validation
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions,jenkins)](https://skillicons.dev) 
 
 
 ## Web Accessibility and Inclusion 🫚
