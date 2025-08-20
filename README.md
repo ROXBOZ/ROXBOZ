@@ -6,12 +6,20 @@
 - Fully certified in Web Accessibility since 2021, ensuring accessible code, design, and content.
  
 ## Tech Stack 🍜
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,nextjs,ts,tailwind,sass)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=graphql,firebase,mongodb,express,nodejs)](https://skillicons.dev)  
-<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50" />
+### Backend & CMS
+<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=graphql,firebase,mongodb,express,nodejs)](https://skillicons.dev)  
+
+
+### UI
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="50" />
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
+<img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
+
+
+### Performances, Testing, CI/CD
+[![My Skills](https://skillicons.dev/icons?i=jest,git,github,jenkins)](https://skillicons.dev) 
 
 
 ## Web Accessibility and Inclusion 🫚
