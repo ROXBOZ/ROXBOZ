@@ -5,7 +5,9 @@
 - Graduated in Graphic Design (ERACOM, Lausanne, 2012), with a shift to Web Design and UI/UX.
 - Fully certified in Web Accessibility since 2021, ensuring accessible code, design, and content.
 
-- Check my **DEMO Project** [pvssy-talk-app-router](https://github.com/ROXBOZ/pvssy-talk-app-router)
+<a href="https://github.com/ROXBOZ/pvssy-talk-app-router">
+  <img src="https://img.shields.io/badge/%20Check%20the%20Demo-FF4081" alt="Demo Link"/>
+</a>
  
 ## Tech Stack 🍜
 ### Frontend
