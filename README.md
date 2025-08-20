@@ -7,13 +7,12 @@
  
 ## Tech Stack 🍜
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,nextjs,ts,tailwind,sass)](https://skillicons.dev)  
-### Backend & CMS
-<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=graphql,firebase,mongodb,express,nodejs)](https://skillicons.dev)  
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)  
+### CMS & Backend
+<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)](https://skillicons.dev)  
 
 ### UI
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)](https://skillicons.dev) 
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="50" />
 <img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
 
