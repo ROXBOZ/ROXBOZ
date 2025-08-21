@@ -30,4 +30,4 @@
 
 
 ## Web Accessibility and Inclusion 🫚
-Since 2021, I have specialized in Web Accessibility, ensuring that my code, design, and content meet the highest standards of inclusive design. I am well-versed in WCAG 2.1 AA and AAA, committed on creating accessible internationalization and to creating digital experiences that are accessible and empowering for all users.
+Since 2021, I have been certified Web Accessibility, ensuring that my code, design, and content meet the WCAG 2.1 AA standards. I use a combination of automated checks with pa11y, a checklist of all WCAG standards to manually verify what automation cannot catch, as well as an additional check list of web inclusion best practices. Sanity CMS is enhanced with accessibility validation tools. 
