@@ -14,12 +14,12 @@
  
 ## Tech Stack 🍜
 ### Core Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,regex)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,regex)]()
 ### Backend & Data
-<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)]
+<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)]()
 
 ### UI & Styling
-[![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)]
+[![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)]()
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="50" />
 <img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
 
