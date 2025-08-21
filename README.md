@@ -13,18 +13,18 @@
 
  
 ## Tech Stack 🍜
-### Frontend
+### Core Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,regex)](https://skillicons.dev)  
-### CMS & Backend
+### Backend & Data
 <img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)](https://skillicons.dev)  
 
-### Styling & UI
+### UI & Styling
 [![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)](https://skillicons.dev) 
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="50" />
 <img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
 
 
-### Validation
+### DevOps & Validation
 [![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions)](https://skillicons.dev) 
 
 
