@@ -25,7 +25,7 @@
 
 
 ### DevOps & Validation
-[![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions,linting)](https://skillicons.dev) 
 
 
 
