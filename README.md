@@ -15,22 +15,19 @@
  
 ## Tech Stack 🍜
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,nextjs,regex)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,regex)](https://skillicons.dev)  
 ### CMS & Backend
-<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,postman,graphql,firebase)](https://skillicons.dev)  
+<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)](https://skillicons.dev)  
 
 ### Styling & UI
-[![My Skills](https://skillicons.dev/icons?i=figma,css,sass,tailwind)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)](https://skillicons.dev) 
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="50" />
 <img src="https://webcurate.co/assets/images/tool-favicons/CNEpncJ.webp" width="50" />
 
 
 ### Validation
-[![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions,jenkins)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,githubactions)](https://skillicons.dev) 
 
----
 
-### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) (React Native)
 
 
