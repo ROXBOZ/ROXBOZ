@@ -3,7 +3,7 @@
 ### I am seeking a full-time, Berlin-based position as a Frontend/Fullstack Web Developer, ideally with an emphasis on UI/UX and A11Y.
 
 <a href="https://github.com/ROXBOZ/pvssy-talk-app-router">
-  <img src="https://img.shields.io/badge/SEE%20THE%20DEMO-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo Link"/>
+  <img src="https://img.shields.io/badge/SEE%20THE%20BEST%20PRACTICES%20DEMO-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo Link"/>
 </a>
 
 ---
