@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/SEE%20THE%20BEST%20PRACTICES%20DEMO-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo Link"/>
 </a>
 
----
-
 ### Professional Experience
 - Co-created Velma Studio in 2023, where I have been working as a JAMstack Developer with Next.js, TypeScript and Sanity.
 - Collaborated with happycoding GmbH as a Fullstack Developer with Next.js, TypeScript and Sanity.
