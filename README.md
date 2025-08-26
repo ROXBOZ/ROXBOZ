@@ -28,7 +28,7 @@
 ### Core Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)]()
 ### Backend & Data
-<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,apollo,firebase)]()
+<img src="https://www.svgrepo.com/show/354309/sanity.svg" width="50"/> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,graphql,firebase)]()
 
 ### UI & Styling
 [![My Skills](https://skillicons.dev/icons?i=figma,sass,tailwind)]()
